@@ -1,0 +1,7 @@
+ACTIVATE + CHIMAL — MANUAL INTEGRAL COMPILADO
+
+Contenido:
+1. Activate_Chimal_Manual_Integral_Compilado.pdf: portada, índice, documentos disponibles y compendio de imágenes.
+2. Activate_Chimal_Compendio_Imagenes_PNG.zip: imágenes PNG relacionadas con manuales e infografías.
+
+Importante: este compendio reúne los documentos existentes en el espacio de trabajo. Algunas partes de la ruta de 12 partes aún no disponen aquí de un manual detallado completo; la portada e índice lo explican. Antes de usar código de ejemplo para sustituir archivos reales, compáralo con el proyecto vigente. No publiques secretos ni credenciales.
